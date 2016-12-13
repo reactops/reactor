@@ -1,0 +1,3 @@
+[submodule "reactor-ui/reactor-ng2-admin"]
+	path = reactor-ui/reactor-ng2-admin
+	url = https://github.com/reactops/ng2-admin-lte.git
